@@ -1,6 +1,7 @@
 A mini SQL engine which runs a subset of SQL QUeries using command line interface. Python implementation.
 
 List of Queries:
+
 	1. Select all records: SELECT 8 FROM table_name
 
 	2. Aggragate functions (Sum, average, max, min) : SELECT max(col1) FROM table1
@@ -20,6 +21,7 @@ List of Queries:
 	9. Drop Table (delete an empty table): DROP TABLE table_name
 
 Data Format:
+
 	1. .csv file for tables. File name table1.csv, table name is "table1" 
 
 	2. All elements in file are only integers
