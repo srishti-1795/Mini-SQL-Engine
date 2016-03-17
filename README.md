@@ -21,8 +21,11 @@ List of Queries:
 
 Data Format:
 	1. .csv file for tables. File name table1.csv, table name is "table1" 
+
 	2. All elements in file are only integers
+
 	3. metadata.txt file: having the structure for each table
+
 	    eg. <begin_table> 
 		<table_name> 
 		<attribute1> 
